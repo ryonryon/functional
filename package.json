@@ -1,0 +1,19 @@
+{
+  "name": "functional",
+  "version": "0.0.0",
+  "description": "In this repository, I learn functional programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryotogashi/functional.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryotogashi/functional/issues"
+  },
+  "homepage": "https://github.com/ryotogashi/functional#readme"
+}
