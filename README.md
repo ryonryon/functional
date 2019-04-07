@@ -17,3 +17,9 @@ eslint --init
 ? Where does your code run? Browser, Node
 ? What format do you want your config file to be in? YAML
 ? Would you like to install them now with npm? Yes
+
+# js-beautify
+npm -g install js-beautify
+
+how to use is below
+js-beautify sample.js
