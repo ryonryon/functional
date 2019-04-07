@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ryotogashi/functional/issues"
   },
-  "homepage": "https://github.com/ryotogashi/functional#readme"
+  "homepage": "https://github.com/ryotogashi/functional#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4"
+  },
+  "eslint.enable": true,
+  "javascript.validate.enable": false
 }
